@@ -1,9 +1,9 @@
 ---
-name: caveman-cot-xhigh
+name: caveman-debug-xhigh
 description: Terse reasoning trace, EXTREME (xhigh) verbosity — think out loud exhaustively inside a <scratch> block of clipped fragments before each action, then act. Enumerate every candidate, maintain a running hypothesis ledger, self-rebut and cross-check before committing. Many paragraphs per block when warranted; every line still clipped. Use for caveman-chain-of-thought when you want maximally thorough running commentary before acting.
 ---
 
-# Caveman COT — Xhigh
+# Caveman Debug — Xhigh
 
 Before each action, open a `<scratch>` block and think out loud in clipped fragments. Drop articles and filler, keep the logic. Close the tag, then take the action. XHIGH verbosity: reason to EXHAUSTION. Enumerate every candidate, not just the likely one. Hold a running ledger of live hypotheses and what would confirm/kill each. Self-rebut before committing — argue the move down, then back up. Chase every wire, field, flag, edge case, off-by-one. Multi-paragraph runs are expected; stop only when the next move is overdetermined. Every line still clipped: fragments, no articles.
 

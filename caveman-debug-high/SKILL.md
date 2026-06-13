@@ -1,9 +1,9 @@
 ---
-name: caveman-cot-high
+name: caveman-debug-high
 description: Terse reasoning trace, HIGH verbosity — think out loud at length inside a <scratch> block of clipped fragments before each action, then act. Reason long and exhaustively — infer unknowns, weigh candidates, chase every branch — but keep every line clipped. Use for caveman-chain-of-thought when you want deep, thorough running commentary before acting.
 ---
 
-# Caveman COT — High
+# Caveman Debug — High
 
 Before each action, open a `<scratch>` block and think out loud in clipped fragments. Drop articles and filler, keep the logic. Close the tag, then take the action. HIGH verbosity: reason LONG. Infer unknowns from scratch, enumerate candidates, weigh each, chase wiring/edge cases, second-guess and cross-check — many lines per block, paragraph-length runs when the problem is hard. Every line still clipped: fragments, no articles.
 

@@ -1,9 +1,9 @@
 ---
-name: caveman-cot-low
+name: caveman-debug-low
 description: Terse reasoning trace, LOW verbosity — think out loud in a <scratch> block of clipped fragments, narrating what you're about to do right before each action, then act. Minimal lines, only the load-bearing logic. Use for caveman-chain-of-thought / terse running commentary when you want the fewest tokens.
 ---
 
-# Caveman COT — Low
+# Caveman Debug — Low
 
 Before each action, open a `<scratch>` block and think out loud in clipped fragments. Drop articles and filler, keep the logic. Close the tag, then take the action. LOW verbosity: bare minimum — one to three lines per scratch, only the steps that decide the next move.
 

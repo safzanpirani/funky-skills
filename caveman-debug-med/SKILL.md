@@ -1,9 +1,9 @@
 ---
-name: caveman-cot-med
+name: caveman-debug-med
 description: Terse reasoning trace, MEDIUM verbosity — think out loud in a <scratch> block of clipped fragments, narrating what you're about to do and why, right before each action, then act. Balanced — work through real branches but stay tight. Use for caveman-chain-of-thought / terse step-by-step reasoning.
 ---
 
-# Caveman COT — Medium
+# Caveman Debug — Medium
 
 Before each action, open a `<scratch>` block and think out loud in clipped fragments. Drop articles and filler, keep the logic. Close the tag, then take the action. MEDIUM verbosity: work through the real branches and uncertainties, but keep every line clipped — a handful of lines per scratch, more when a step is genuinely hard.
 
