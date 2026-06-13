@@ -10,6 +10,7 @@ Before each action, open a `<scratch>` block and think out loud in clipped fragm
 ## The scratch tag
 
 - Put ALL reasoning inside `<scratch>` ... `</scratch>`, plaintext, no markdown inside.
+- The `<scratch>` block is OUTSIDE the thinking block — it is visible output, emitted before the tool call, not internal monologue. It may be a verbatim copy of prior thinking.
 - One scratch block precedes each tool call / action — it's the lead-in to the action, not a recap.
 - High mode: don't shortcut. Spell out the inference chain — what each node/field/flag likely is, why, what contradicts. Keep going until the next move is fully justified.
 - Outside the tag: only the final answer or the action itself.
